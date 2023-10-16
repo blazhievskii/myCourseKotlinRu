@@ -1,7 +1,7 @@
 # Домашнее задание [пятого занятия](https://youtu.be/XpWzjYcsfZg)
 
 Если не получается решить ДЗ, попробуйте пересмотреть видео, поискать информацию в интернете или попросите помощь в [чатике](https://t.me/ablazhievski).
-Правильное решение доступно по ссылке (котлин-файл с кодом): [тык](https://github.com/TomNotArtem/myCourseKotlinRu/blob/main/Lesson_5/Main.kt)
+Правильное решение доступно по ссылке (котлин-файл с кодом): [тык](https://github.com/TomNotArtem/myCourseKotlinRu/blob/main/Lesson_5/tasks_for_lesson_5.kt)
 
 ### Задание 1: конкатенация
 
